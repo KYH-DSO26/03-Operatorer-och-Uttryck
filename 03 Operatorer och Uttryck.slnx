@@ -3,4 +3,5 @@
   <Project Path="02 Ålderskontrollen/02 Ålderskontrollen.csproj" />
   <Project Path="03 Inloggningsvalidering/03 Inloggningsvalidering.csproj" />
   <Project Path="04 Godisdelaren/04 Godisdelaren.csproj" />
+  <Project Path="05 Implicit vs Explicit Typkonvertering/05 Implicit vs Explicit Typkonvertering.csproj" />
 </Solution>
