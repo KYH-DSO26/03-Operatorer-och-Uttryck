@@ -7,4 +7,5 @@
   <Project Path="06 Medlemsrabatt/06 Medlemsrabatt.csproj" />
   <Project Path="07 Säker division/07 Säker division.csproj" />
   <Project Path="08 Stränglängds-kontroll/08 Stränglängds-kontroll.csproj" />
+  <Project Path="09 Inkrementeringstjusa/09 Inkrementeringstjusa.csproj" />
 </Solution>
