@@ -9,4 +9,7 @@
   <Project Path="08 Stränglängds-kontroll/08 Stränglängds-kontroll.csproj" />
   <Project Path="09 Inkrementeringstjusa/09 Inkrementeringstjusa.csproj" />
   <Project Path="10 Dataype-safe casting (is &amp; as)/10 Dataype-safe casting (is &amp; as).csproj" />
+  <Project Path="11 Skatteuträknaren med Overflow/11 Skatteuträknaren med Overflow.csproj" />
+  <Project Path="12 Bitwise flaggor i praktiken (Skrivbordsrättigheter)/12 Bitwise flaggor i praktiken (Skrivbordsrättigheter).csproj" />
+  <Project Path="13 Logisk 'Short-circuiting' (Säkerhetskontroll)/13 Logisk 'Short-circuiting' (Säkerhetskontroll).csproj" />
 </Solution>
