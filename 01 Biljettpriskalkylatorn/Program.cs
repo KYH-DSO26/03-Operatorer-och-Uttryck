@@ -2,6 +2,10 @@
 int antal = 3;
 decimal totalPris = grundPris * antal;
 
+/*
+if (int.TryParse(Console.ReadLine(), out int antalBiljetter) && antalBiljetter > 0)
+//RAMI
+*/
 if (antal >= 3)
 {
     //totalPris = totalPris * 0.90m;  // 10% rabatt är samma sak som att multiplicera med 0.90
