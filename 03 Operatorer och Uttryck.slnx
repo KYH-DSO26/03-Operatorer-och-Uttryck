@@ -4,4 +4,5 @@
   <Project Path="03 Inloggningsvalidering/03 Inloggningsvalidering.csproj" />
   <Project Path="04 Godisdelaren/04 Godisdelaren.csproj" />
   <Project Path="05 Implicit vs Explicit Typkonvertering/05 Implicit vs Explicit Typkonvertering.csproj" />
+  <Project Path="06 Medlemsrabatt/06 Medlemsrabatt.csproj" />
 </Solution>
